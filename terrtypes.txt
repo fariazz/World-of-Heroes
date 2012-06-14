@@ -1,0 +1,14 @@
+1,forest,2,1, images/forest.jpg
+2,grassland,1,1, images/grassland.jpg
+3,mountain range,-1,0, images/mountain.jpg
+4,ocean,-1,0, images/ocean.jpg
+5, desert,3,1,images/desert.jpg 
+6, grassland,1,1, images/grassland2.jpg
+7, plans,1,1, images/plains.jpg
+8, snow, 4,1, images/snow.jpg
+9, pine forest, 2,1, images/pine_forest.jpg
+10, tundra, 3,1, images/tundra.jpg
+11, hills, 3,1, images/hills.jpg
+12, small forest, 2,1, images/small_forest.jpg
+
+

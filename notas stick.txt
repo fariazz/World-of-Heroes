@@ -1,0 +1,12 @@
+WOH
+
+-resource depleting on walk/turn
+-save, load, new game
+-fix speed (load surfaces to screen)
+-fix details: dialogs not modal overlap (with right panel), stop moving when reaching a resource, stop moving when end of turn, more visibility, path when click a non walkable terr, ENTER for next turn, msg "not enough resources for operation"
+-1 player game, no enemies
+-battle system
+-static enemies
+-monster enemies
+-smart enemies
+
